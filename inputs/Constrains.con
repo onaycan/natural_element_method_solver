@@ -1,0 +1,11 @@
+Shall I calculate delaunay properties (Is your model nonconvex)? 
+yes
+alpha->vertex to center: 
+2.5
+alpha->sum of longest two edges:
+3.0
+alpha->smallest angle in degrees:
+8.0 
+Featuring Tolerance 
+0.01 
+ 
